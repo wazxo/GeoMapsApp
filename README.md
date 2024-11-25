@@ -1,3 +1,6 @@
+
+# README
+
 ## Descripción
 
 Esta es una aplicación móvil desarrollada con **React Native** que permite obtener la dirección de una ubicación a partir de las coordenadas de latitud y longitud ingresadas por el usuario. Utiliza la API de **Google Maps Geocoding** para convertir las coordenadas geográficas en una dirección legible.
@@ -20,12 +23,12 @@ Esta es una aplicación móvil desarrollada con **React Native** que permite obt
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/wazxo/GeoMapsApp.git
    ```
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-repositorio
+   cd GeoMapsApp
    ```
 
 3. Instala las dependencias:
